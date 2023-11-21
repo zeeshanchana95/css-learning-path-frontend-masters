@@ -1,0 +1,18 @@
+<!-- instructions in JavaScript block -->
+Hi, my name is [Your Name].
+
+I [teach, develop, create, design] [the web, the front end of websites, user experiences, user interfaces, digital experiences, etc].
+
+I'm [an educator, a student, a developer, a designer] specializing in [HTML, CSS, user experience, your tech stack, etc].
+
+Currently, I'm [working at XYZ Corp, completing the XYZ Bootcamp, making a career switch from X to Y, etc].
+
+
+-----------------------
+Hi, my name is Zeeshan Ahmed Channa.
+ 
+I teach, develop, create, design the web, the front end of websites, user experiences, user interfaces, digital experiences, etc.
+
+I'm an educator, a student, a developer, a designer specializing in HTML, CSS, JavaScript, React, user experience etc.
+
+Currently, I'm learning Web Development at Frontend Masters and completed Internet Fundamentals, Frontend Masters Bootcamp, Complete Intro to Web Development and learning Getting Started with CSS. 
